@@ -47,4 +47,4 @@ B. Paste the `X-RapidAPI-Key` into the `src/keys.json` file.
 
 To host a version of this project on the web, you can simply use [Heroku](https://www.heroku.com/home).
 
-Sign up for an account, and follow their instructions. If you forked this repo, then you can link your GitHub account to Heroku.
+Sign up for an account, and follow their instructions.
