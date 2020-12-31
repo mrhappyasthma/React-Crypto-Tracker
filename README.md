@@ -17,3 +17,7 @@ Code: https://github.com/dappuniversity/crypto_tracker
 This image is stolen directly from the main project repo. I inlined it here for convenience:
 
 ![Project diagram. React -> Axios -> RapidAPI -> coinpaprika.com](https://camo.githubusercontent.com/680699d03d04b7da2d694400f35d8cbf52b3953f7e605b632d27e2c95a1b9cb4/68747470733a2f2f692e6779617a6f2e636f6d2f65333037373764353137373635623634346434636639373538623064623535632e706e67)
+
+## Dependencies / Requirements
+
+Install `nodejs` and `npm` from here: https://nodejs.org/en/download/
