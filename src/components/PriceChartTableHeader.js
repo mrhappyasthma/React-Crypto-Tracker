@@ -3,10 +3,17 @@ import React, { Component } from 'react';
 class PriceChartTableBody extends Component {
 
   render() {
-	return (
-       <tbody>
-       </tbody>
-	);
+	  return (
+      <thead className="thead-dark">
+        <tr>
+          <th scope="col">Rank</th>
+          <th scope="col">Logo</th>
+          <th scope="col">Name</th>
+          <th scope="col">Price</th>
+          <th scope="col">Market Cap</th>
+        </tr>
+      </thead>
+	  );
   }
 
 }
