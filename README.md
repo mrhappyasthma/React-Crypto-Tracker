@@ -4,6 +4,10 @@ A simple React application to track crypto currency prices. This is based on the
 
 This repo is written by hand, but I followed the tutorial pretty directly since I'm not at all familiar with React.
 
+## Live Demo
+
+A live demo of this repo is hosted on Heroku at https://react-crypto-tracker.herokuapp.com/
+
 ## Tutorial
 
 Credits to `Dapp University` youtube channel for the tutorial.
@@ -38,3 +42,9 @@ B. Paste the `X-RapidAPI-Key` into the `src/keys.json` file.
 
 1. Run `npm install` to install all of the dependencies from `package.json`.
 2. Run `npm start` to run the react application and launch your website via `localhost`.
+
+## Deploying to Heroku
+
+To host a version of this project on the web, you can simply use [Heroku](https://www.heroku.com/home).
+
+Sign up for an account, and follow their instructions. If you forked this repo, then you can link your GitHub account to Heroku.
