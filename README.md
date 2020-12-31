@@ -36,6 +36,7 @@ Install `nodejs` and `npm` from here: https://nodejs.org/en/download/
 A. Get an API key from [Coinpaprika](https://english.api.rakuten.net/lbraciszewski/api/coinpaprika1).
 - Create an account and log in. (Note: The website was really slow when I had to do this. It was a pain but eventually worked.)
 - Copy the `X-RapidAPI-Key` from the page, after you logged in.
+
 B. Paste the `X-RapidAPI-Key` into the `src/keys.json` file.
 
 ### Installing and starting the server
