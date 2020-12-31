@@ -26,6 +26,7 @@ This image is stolen directly from the main project repo. I inlined it here for 
 
 Install `nodejs` and `npm` from here: https://nodejs.org/en/download/
 
-## Building
+## Building and Running Locally
 
 1. Run `npm install` to install all of the dependencies from `package.json`.
+2. Run `npm start` to run the react application and launch your website via `localhost`.
