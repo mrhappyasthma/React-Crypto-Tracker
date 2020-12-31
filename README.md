@@ -28,5 +28,13 @@ Install `nodejs` and `npm` from here: https://nodejs.org/en/download/
 
 ## Building and Running Locally
 
+### Prework
+A. Get an API key from [Coinpaprika](https://english.api.rakuten.net/lbraciszewski/api/coinpaprika1).
+- Create an account and log in. (Note: The website was really slow when I had to do this. It was a pain but eventually worked.)
+- Copy the `X-RapidAPI-Key` from the page, after you logged in.
+B. Paste the `X-RapidAPI-Key` into the `keys.conf` file.
+
+### Installing and starting the server
+
 1. Run `npm install` to install all of the dependencies from `package.json`.
 2. Run `npm start` to run the react application and launch your website via `localhost`.
