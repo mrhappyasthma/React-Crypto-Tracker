@@ -1,8 +1,8 @@
 {
-  "name": "crypto_tracker",
+  "name": "react_crypto_tracker",
   "version": "0.1.0",
   "description": "Cryptocurrency Tracker",
-  "author": "xternet",
+  "author": "mrhappyasthma",
   "homepage": ".",
   "dependencies": {
     "axios": "^0.20.0",
