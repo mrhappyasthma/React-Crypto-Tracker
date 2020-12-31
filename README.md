@@ -9,8 +9,8 @@ This repo is written by hand, but I followed the tutorial pretty directly since 
 Credits to `Dapp University` youtube channel for the tutorial.
 
 Video: https://www.youtube.com/watch?v=jOgoQiCAy-g
-
-Code: https://github.com/dappuniversity/crypto_tracker
+Starter code: https://github.com/dappuniversity/crypto_tracker/tree/starter_code
+Finished Code: https://github.com/dappuniversity/crypto_tracker
 
 ## Project diagram
 
