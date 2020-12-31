@@ -21,3 +21,7 @@ This image is stolen directly from the main project repo. I inlined it here for 
 ## Dependencies / Requirements
 
 Install `nodejs` and `npm` from here: https://nodejs.org/en/download/
+
+## Building
+
+1. Run `npm install` to install all of the dependencies from `package.json`.
