@@ -16,7 +16,7 @@ Finished Code: https://github.com/dappuniversity/crypto_tracker
 
 ## Project diagram
 
-The project uses [React](https://reactjs.org/) to power the frontend, and uses [axios](https://github.com/axios/axios) for a promises-based API to fetch the crypto prices.
+The project uses [React](https://reactjs.org/) to power the frontend, uses [Coinpaprika](https://rapidapi.com/lbraciszewski/api/coinpaprika1) API to provide the crypto data. This is fetched using [axios](https://github.com/axios/axios) for a promises-based fetches.
 
 This image is stolen directly from the main project repo. I inlined it here for convenience:
 
