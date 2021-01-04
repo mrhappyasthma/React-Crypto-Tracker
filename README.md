@@ -6,7 +6,7 @@ This repo is written by hand, but I followed the tutorial pretty directly since 
 
 ## Live Demo
 
-A live demo of this repo is hosted on Heroku at https://react-crypto-tracker.herokuapp.com/
+A live demo of this repo is hosted on Netlify at https://react-covid-19-cases-tracker.netlify.app/.
 
 ## Tutorial
 
@@ -44,8 +44,8 @@ B. Paste the `X-RapidAPI-Key` into the `src/keys.json` file.
 1. Run `npm install` to install all of the dependencies from `package.json`.
 2. Run `npm start` to run the react application and launch your website via `localhost`.
 
-## Deploying to Heroku
+## Deploying to the web
 
-To host a version of this project on the web, you can simply use [Heroku](https://www.heroku.com/home).
+To host a version of this project on the web, you can simply use [Netlify](https://app.netlify.com).
 
-Sign up for an account, and follow their instructions.
+Sign up for an account and simply create a new project by uploading your git repository or linking your GitHub account.
